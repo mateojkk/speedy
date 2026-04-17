@@ -1,0 +1,410 @@
+{
+  "last_updated": "2026-04-17T18:46:33.742284",
+  "markets_scanned": 4497,
+  "heatmap": [
+    {
+      "sector": "Crypto",
+      "vol": 344318,
+      "lq": 940354,
+      "avg_mom": 0.08
+    },
+    {
+      "sector": "Bitcoin",
+      "vol": 1270,
+      "lq": 66131,
+      "avg_mom": 0.04
+    },
+    {
+      "sector": "MegaETH",
+      "vol": 304595,
+      "lq": 349872,
+      "avg_mom": 0.17
+    },
+    {
+      "sector": "Crypto Prices",
+      "vol": 1275,
+      "lq": 65827,
+      "avg_mom": 0.07
+    }
+  ],
+  "signals": [
+    {
+      "id": "556062",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$2B one day after launch?",
+      "score": 100,
+      "metrics": {
+        "liquidity": 63239,
+        "vol24": 41956,
+        "spread": 0.01,
+        "hr_change": 0.015,
+        "best_bid": 0.22,
+        "best_ask": 0.23,
+        "est_ev_cap": 419.56
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "965261",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$1B one day after launch?",
+      "score": 100,
+      "metrics": {
+        "liquidity": 51045,
+        "vol24": 116952,
+        "spread": 0.02,
+        "hr_change": 0.0,
+        "best_bid": 0.6,
+        "best_ask": 0.62,
+        "est_ev_cap": 1020.91
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "1373744",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$800M one day after launch?",
+      "score": 100,
+      "metrics": {
+        "liquidity": 33408,
+        "vol24": 59424,
+        "spread": 0.01,
+        "hr_change": 0.0,
+        "best_bid": 0.72,
+        "best_ask": 0.73,
+        "est_ev_cap": 334.08
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "692258",
+      "slug": "microstrategy-sell-any-bitcoin-in-2025",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MicroStrategy sells any Bitcoin by June 30, 2026?",
+      "score": 81.5,
+      "metrics": {
+        "liquidity": 83388,
+        "vol24": 3162,
+        "spread": 0.004,
+        "hr_change": 0.001,
+        "best_bid": 0.023,
+        "best_ask": 0.027,
+        "est_ev_cap": 12.65
+      },
+      "tags": [
+        "Finance",
+        "Economy"
+      ]
+    },
+    {
+      "id": "556108",
+      "slug": "megaeth-airdrop-by",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Will MegaETH perform an airdrop by June 30? ",
+      "score": 80.1,
+      "metrics": {
+        "liquidity": 13944,
+        "vol24": 13216,
+        "spread": 0.05,
+        "hr_change": -0.036,
+        "best_bid": 0.572,
+        "best_ask": 0.622,
+        "est_ev_cap": 660.78
+      },
+      "tags": [
+        "Airdrops",
+        "MegaETH"
+      ]
+    },
+    {
+      "id": "556063",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$6B one day after launch?",
+      "score": 75.8,
+      "metrics": {
+        "liquidity": 53978,
+        "vol24": 15055,
+        "spread": 0.003,
+        "hr_change": 0.001,
+        "best_bid": 0.019,
+        "best_ask": 0.022,
+        "est_ev_cap": 45.16
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "1541748",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$600M one day after launch?",
+      "score": 75.1,
+      "metrics": {
+        "liquidity": 29836,
+        "vol24": 23698,
+        "spread": 0.01,
+        "hr_change": 0.0,
+        "best_bid": 0.87,
+        "best_ask": 0.88,
+        "est_ev_cap": 236.98
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "666614",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$3B one day after launch?",
+      "score": 73.9,
+      "metrics": {
+        "liquidity": 49627,
+        "vol24": 15687,
+        "spread": 0.004,
+        "hr_change": 0.0,
+        "best_bid": 0.057,
+        "best_ask": 0.061,
+        "est_ev_cap": 62.75
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "618454",
+      "slug": "opensea-fdv-above-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Opensea FDV above $500M one day after launch?",
+      "score": 66.8,
+      "metrics": {
+        "liquidity": 28487,
+        "vol24": 12786,
+        "spread": 0.026,
+        "hr_change": 0.001,
+        "best_bid": 0.442,
+        "best_ask": 0.468,
+        "est_ev_cap": 332.44
+      },
+      "tags": [
+        "Crypto",
+        "Pre-Market"
+      ]
+    },
+    {
+      "id": "618455",
+      "slug": "opensea-fdv-above-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Opensea FDV above $1B one day after launch?",
+      "score": 59.3,
+      "metrics": {
+        "liquidity": 39941,
+        "vol24": 1078,
+        "spread": 0.03,
+        "hr_change": 0.0,
+        "best_bid": 0.17,
+        "best_ask": 0.2,
+        "est_ev_cap": 32.35
+      },
+      "tags": [
+        "Crypto",
+        "Pre-Market"
+      ]
+    },
+    {
+      "id": "1299187",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$1.5B one day after launch?",
+      "score": 55.7,
+      "metrics": {
+        "liquidity": 22327,
+        "vol24": 13474,
+        "spread": 0.01,
+        "hr_change": 0.045,
+        "best_bid": 0.39,
+        "best_ask": 0.4,
+        "est_ev_cap": 134.74
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "824952",
+      "slug": "microstrategy-sell-any-bitcoin-in-2025",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MicroStrategy sells any Bitcoin by December 31, 2026?",
+      "score": 48.9,
+      "metrics": {
+        "liquidity": 44001,
+        "vol24": 1648,
+        "spread": 0.01,
+        "hr_change": 0.0,
+        "best_bid": 0.1,
+        "best_ask": 0.11,
+        "est_ev_cap": 16.48
+      },
+      "tags": [
+        "Finance",
+        "Economy"
+      ]
+    },
+    {
+      "id": "636111",
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "MegaETH market cap (FDV) >$4B one day after launch?",
+      "score": 42.6,
+      "metrics": {
+        "liquidity": 32467,
+        "vol24": 5134,
+        "spread": 0.007,
+        "hr_change": 0.0,
+        "best_bid": 0.033,
+        "best_ask": 0.04,
+        "est_ev_cap": 35.94
+      },
+      "tags": [
+        "Airdrops",
+        "Featured"
+      ]
+    },
+    {
+      "id": "691547",
+      "slug": "kraken-ipo-in-2025",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Kraken IPO by December 31, 2026?",
+      "score": 36.6,
+      "metrics": {
+        "liquidity": 4616,
+        "vol24": 1490,
+        "spread": 0.04,
+        "hr_change": 0.0,
+        "best_bid": 0.73,
+        "best_ask": 0.77,
+        "est_ev_cap": 59.61
+      },
+      "tags": [
+        "exchange",
+        "Tech"
+      ]
+    },
+    {
+      "id": "637457",
+      "slug": "ink-fdv-above-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Ink FDV above $1B one day after launch?",
+      "score": 34.1,
+      "metrics": {
+        "liquidity": 18231,
+        "vol24": 1781,
+        "spread": 0.02,
+        "hr_change": 0.0,
+        "best_bid": 0.3,
+        "best_ask": 0.32,
+        "est_ev_cap": 35.63
+      },
+      "tags": [
+        "Crypto",
+        "Pre-Market"
+      ]
+    },
+    {
+      "id": "821172",
+      "slug": "will-base-launch-a-token-in-2025-341",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Will Base launch a token by June 30, 2026?",
+      "score": 30.4,
+      "metrics": {
+        "liquidity": 17995,
+        "vol24": 7497,
+        "spread": 0.002,
+        "hr_change": 0.001,
+        "best_bid": 0.03,
+        "best_ask": 0.032,
+        "est_ev_cap": 14.99
+      },
+      "tags": [
+        "Crypto",
+        "Pre-Market"
+      ]
+    },
+    {
+      "id": "622738",
+      "slug": "hyperliquid-airdop-by",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Will Hyperliquid perform an airdrop by December 31, 2026? ",
+      "score": 26.8,
+      "metrics": {
+        "liquidity": 6954,
+        "vol24": 3247,
+        "spread": 0.02,
+        "hr_change": 0.0,
+        "best_bid": 0.33,
+        "best_ask": 0.35,
+        "est_ev_cap": 64.95
+      },
+      "tags": [
+        "Crypto",
+        "Airdrops"
+      ]
+    },
+    {
+      "id": "916390",
+      "slug": "ink-fdv-above-one-day-after-launch",
+      "timestamp": "18:46:33",
+      "type": "CRYPTO_ALPHA",
+      "question": "Ink FDV above $2B one day after launch?",
+      "score": 20.1,
+      "metrics": {
+        "liquidity": 12346,
+        "vol24": 1041,
+        "spread": 0.01,
+        "hr_change": 0.0,
+        "best_bid": 0.1,
+        "best_ask": 0.11,
+        "est_ev_cap": 10.41
+      },
+      "tags": [
+        "Crypto",
+        "Pre-Market"
+      ]
+    }
+  ]
+}

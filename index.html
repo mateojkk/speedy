@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speedy</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="dashboard-wrapper">
+        <header class="dash-header">
+            <div class="nav-brand">Speedy.</div>
+            <div class="dash-metrics">
+                <div class="metric">
+                    <span class="metric-label">Scanned</span>
+                    <span class="metric-value" id="val-scanned">0 active targets</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Last Sync</span>
+                    <span class="metric-value" id="val-time">--:--:--</span>
+                </div>
+                <div class="metric" id="badge-status">
+                    <span class="status-dot"></span>
+                    <span class="metric-value" id="val-net">Connecting</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="dash-grid">
+            <!-- Left Pane -->
+            <aside class="dash-sidebar">
+                <div class="section-eyebrow">Top market sectors</div>
+                <div class="sector-grid" id="sector-heatmap">
+                    <!-- populated via js -->
+                </div>
+
+                <div class="section-eyebrow logs-eyebrow">System logs</div>
+                <div class="logs-container" id="sys-logs">
+                    <div class="log-line">Initializing monitoring sequence...</div>
+                </div>
+            </aside>
+
+            <!-- Main Pane -->
+            <section class="dash-main">
+                <div class="dash-main-header">
+                    <div class="section-eyebrow">Active execution feed</div>
+                    <button id="btn-execute" class="btn-outline">Simulation: OFF</button>
+                </div>
+                <div class="feed-grid" id="signals-feed">
+                    <!-- populated via js -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
